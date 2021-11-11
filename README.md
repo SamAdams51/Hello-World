@@ -1,2 +1,3 @@
 # Hello-World
-A repository used to learn more about GitHub.
+I am a retiree and would like to learn the Python programming language.
+However, this repository is just used to learn more about GitHub.
