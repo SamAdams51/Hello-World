@@ -14,3 +14,4 @@ Hier ist die erste[^1] Fußnote und das ist die zweite[^2] . Jetzt noch die drit
 ⅛ ⅒©
 Von Zusatztasten ist nur wenig zu sehen.
 Habe sie jetzt gefunden.
+Es sind insgesamt 6 Tasten.
